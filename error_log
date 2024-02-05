@@ -1,0 +1,7 @@
+[30-Dec-2023 09:48:21 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Jan-2024 17:17:54 UTC] PHP Warning:  Undefined array key "name" in /home1/cszdemmy/public_html/tpp/wp-content/plugins/porto-functionality/widgets/block.php on line 31
+[01-Jan-2024 17:19:08 UTC] PHP Warning:  Undefined array key "name" in /home1/cszdemmy/public_html/tpp/wp-content/plugins/porto-functionality/widgets/block.php on line 31
+[10-Jan-2024 11:36:58 UTC] Cron reschedule event error for hook: wp_1_wc_regenerate_images_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wp_1_wc_regenerate_images_cron_interval","args":[],"interval":300}
+[14-Jan-2024 22:00:08 UTC] Cron reschedule event error for hook: woocommerce_geoip_updater, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"fifteendays","args":[],"interval":1296000}
+[23-Jan-2024 15:08:52 UTC] PHP Warning:  Undefined array key "jquery-slick" in /home1/cszdemmy/public_html/tpp/wp-content/plugins/porto-functionality/shortcodes/templates/porto_ultimate_carousel.php on line 270
+[23-Jan-2024 15:08:52 UTC] PHP Warning:  Attempt to read property "src" on null in /home1/cszdemmy/public_html/tpp/wp-content/plugins/porto-functionality/shortcodes/templates/porto_ultimate_carousel.php on line 270
